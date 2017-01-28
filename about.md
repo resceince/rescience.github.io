@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About reScience
+title: About reScience :)
 permalink: /about/
 ---
-## About :)
 
 reScience is an effort by Husband and Wife duo from Bangalore, India. It is an attempt to bring practical science to kids young and old! 
 

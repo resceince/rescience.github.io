@@ -3,8 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+![webjeda logo]({{site.baseurl}}/images/webjeda.svg)
 
-This is Smart Material theme.
+<div class="mt50"></div>
 
-Github repository: [https://github.com/ssokurenko/jekyll-smart-material](https://github.com/ssokurenko/jekyll-smart-material)
-
+Webjeda cards is a Bootstrap based theme. Any Bootstrap element can be used in the theme. Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 

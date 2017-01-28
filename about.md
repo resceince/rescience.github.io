@@ -10,5 +10,5 @@ reScience is an effort by Husband and Wife duo from Bangalore, India. It is an a
 
 ### Reach us! 
 
-Message us on the facebook page if you'ld like to know any more informaton! If you like our work, subscribe on youtube and share! 
+Message us on the facebook page if you'ld like to know any more informaton! If you like our work, subscribe on youtube and do share our work. 
 

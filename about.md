@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: About reScience
 permalink: /about/
 ---
+## About :)
 
-Some information about you!
+reScience is an effort by Husband and Wife duo from Bangalore, India. It is an attempt to bring practical science to kids young and old! 
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Reach us! 
 
-[email@domain.com](mailto:email@domain.com)
+Message us on the facebook page if you'ld like to know any more informaton! If you like our work, subscribe on youtube and share! 
+
